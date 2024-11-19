@@ -1,0 +1,36 @@
+# Node modules for both frontend and backend
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+.vscode/
+
+# Build files
+build/
+dist/
+
+# NPM package lock files
+package-lock.json
+yarn.lock
+
+# React specific files
+
+
+# Backend specific files
+.env
+
+

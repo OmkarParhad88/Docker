@@ -1,0 +1,7 @@
+services: 
+  app:
+    image: serverimage:02
+    container_name: sc
+    ports:
+      - 8080:3000 
+    restart: unless-stopped
